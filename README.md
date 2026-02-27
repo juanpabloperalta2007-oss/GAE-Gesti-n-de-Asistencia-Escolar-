@@ -12,8 +12,6 @@ El proyecto propone el desarrollo de un sistema de información para el control,
 
 ### __Pregunta del proyecto__
 ¿El sistema de gestión de asistencia escolar puede ser aplicado en instituciones educativas para facilitar, automatizar y controlar el proceso de cumplimiento de los estudiantes?
-###_Objetivo general_
-Desarrollar una plataforma web que automatice el control de asistencia y gestione las consecuencias académicas por faltas injustificadas, con el fin de prevenir la pérdida de materias, fortalecer la comunicación institucional y mejorar el rendimiento académico de los estudiantes.
 
 ### __Objetivo general__
 Desarrollar una plataforma web que automatice el control de asistencia y gestione las consecuencias académicas por faltas injustificadas, con el fin de prevenir la pérdida de materias, fortalecer la comunicación institucional y mejorar el rendimiento académico de los estudiantes.
